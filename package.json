@@ -5,6 +5,7 @@
   "author": "Max Gingold",
   "license": "MIT",
   "main": "server.js",
+  "homepage": "https://a4-maxgingold.onrender.com",
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
